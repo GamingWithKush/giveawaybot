@@ -1,0 +1,19 @@
+{
+    "Bot_Info": {
+
+        "prefix":Your Prefix"?"
+    },
+
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+
+   "Giveaway_Options": {
+    "giveawayManGiveaway Manager Role IDagerID": "",
+    "giveawaGiveaway role idyRoleID": "",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+    }
+
+}   
